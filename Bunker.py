@@ -1,5 +1,5 @@
 password = input("cual es la contraseña?.")
-if"0509" in password:
+if"05Dsm/90" in password:
 	print(" por favor ingrese el numero que le llegara via sms.")
 else:
 	print("La contraseña no coincide")

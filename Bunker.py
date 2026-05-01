@@ -4,12 +4,12 @@ if"05Dsm/90" in password:
 else:
 	print("La contraseña no coincide")
 	second_attempt = input("Le quedan 2 intentos para poner la contraseña")
-	if"0509" in second_attempt:
+	if"05Dsm/90" in second_attempt:
 		print("Bienvenido")
 	else:
 			print("La contraseña sigue sincoincidir")
 	third_attempt = input("este es su ultimo intento")
-	if"0509" in third_attempt:
+	if"05Dsm/90" in third_attempt:
 		print("Bienvenido justo en el ultimo intento")
 	else:
 			print("se mando un correo electronico para restablecer tu cuenta")
